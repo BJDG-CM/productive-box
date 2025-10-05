@@ -48,7 +48,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 ### Project setup
 
-1. Fork this repo
+1. Fork this repo:)
 1. Open the "Actions" tab of your fork and click the "enable" button
 1. Go to the repo **Settings > Secrets and variables** > **Actions**,
    add the following secrets / variables:
@@ -67,6 +67,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
 
 ### How to run the workflow manually
+
 1. Go to the "Actions" tab on your fork
 1. Select the "Update gist" workflow
 1. Click the "Run workflow" button
